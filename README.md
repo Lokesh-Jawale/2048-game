@@ -1,3 +1,12 @@
+# Contacts App
+[Click to open the app](https://Lokesh-Jawale.github.io/2048-game)
+(https://Lokesh-Jawale.github.io/2048-game)
+
+## Preview images of 2048-Game
+### Preview
+![Preview image of Game](https://github.com/Lokesh-Jawale/2048-game/blob/master/src/images/home.png)
+![Preview image of Game](https://github.com/Lokesh-Jawale/2048-game/blob/master/src/images/game.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
