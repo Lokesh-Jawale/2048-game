@@ -1,4 +1,4 @@
-# Contacts App
+# 2048 game
 [Click to open the app](https://Lokesh-Jawale.github.io/2048-game)
 (https://Lokesh-Jawale.github.io/2048-game)
 
